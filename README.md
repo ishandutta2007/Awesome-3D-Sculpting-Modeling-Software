@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -37,6 +39,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [How to Contribute](#how-to-contribute)
 
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global 3D modeling and sculpting software market is estimated at approximately USD 8B–10B (projected to exceed USD 18B by the early 2030s, growing at a ~12–14% CAGR) fueled by expanding demand across AAA game engines, VFX, AR/VR, and 3D printing. The industry displays a moderately concentrated landscape dominated by established incumbents (Maxon, Autodesk, Adobe) alongside the ubiquitous open-source standard (Blender), with dynamic niche fragmentation emerging across mobile-first sculpting apps, voxel solutions, and generative AI sculpting pipelines.
 
 
 
