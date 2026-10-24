@@ -68,15 +68,15 @@ The following table details leading hosted, subscription, and commercial 3D scul
 
 ## ⚡ Open-Source GitHub Projects
 
-Explore the finest open-source 3D sculpting suites, polygon modeling toolkits, retopology engines, and mesh-processing libraries. Sorted by **GitHub Stars (Descending)**:
+Explore the finest open-source 3D sculpting suites, polygon modeling toolkits, retopology engines, and mesh-processing libraries. Sorted by **GitHub_Stars (Descending)**:
 
-- ### 1. **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** [![GitHub Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers) 🛠️
+- ### 1. **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** [![GitHub_Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers) 🛠️
   *A general-purpose open-source parametric 3D CAD/CAM/CAE modeler.*
   - **Overview**: Geared towards mechanical engineering, product design, and architectural BIM workflows. Features a modular architecture with specialized workbenches for mesh design, surfacing, and CSG modeling.
   - **Best For**: Parametric base meshes and engineering-accurate solid modeling prior to artistic sculpting passes.
   - **License**: LGPL-2.1
 
-- ### 2. **[Blender](https://github.com/blender/blender)** [![GitHub Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers) 🎨
+- ### 2. **[Blender](https://github.com/blender/blender)** [![GitHub_Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers) 🎨
   *The flagship open-source 3D creation suite: sculpting, modeling, rigging, animation, simulation, rendering, and compositing.*
   - **Sculpting Features**:
     - **Voxel Remeshing**: Rapidly rebuilds manifold geometry with uniform topology to block out concepts without pinching.
@@ -86,61 +86,61 @@ Explore the finest open-source 3D sculpting suites, polygon modeling toolkits, r
   - **Best For**: Artists and game developers seeking a production-ready, fully free, subscription-free studio standard.
   - **License**: GPL-3.0
 
-- ### 3. **[AliceVision Meshroom](https://github.com/alicevision/Meshroom)** [![GitHub Stars](https://img.shields.io/github/stars/alicevision/Meshroom?style=social&color=white)](https://github.com/alicevision/Meshroom/stargazers) 📸
+- ### 3. **[AliceVision Meshroom](https://github.com/alicevision/Meshroom)** [![GitHub_Stars](https://img.shields.io/github/stars/alicevision/Meshroom?style=social&color=white)](https://github.com/alicevision/Meshroom/stargazers) 📸
   *Open-source 3D photogrammetry and surface reconstruction software pipeline.*
   - **Overview**: Turns collections of photographs into dense, textured 3D meshes ready for digital clean-up, remeshing, and clay detailing.
   - **Best For**: Capturing real-world organic reference models, statues, and environmental scans for sculpting pipelines.
   - **License**: MPL-2.0
 
-- ### 4. **[OpenSCAD](https://github.com/openscad/openscad)** [![GitHub Stars](https://img.shields.io/github/stars/openscad/openscad?style=social&color=white)](https://github.com/openscad/openscad/stargazers) 📐
+- ### 4. **[OpenSCAD](https://github.com/openscad/openscad)** [![GitHub_Stars](https://img.shields.io/github/stars/openscad/openscad?style=social&color=white)](https://github.com/openscad/openscad/stargazers) 📐
   *The Programmers Solid 3D CAD Modeler.*
   - **Overview**: Instead of interactive sculpting, OpenSCAD acts like a 3D compiler that reads script files describing geometric primitives and transformations.
   - **Best For**: Algorithmic hard-surface base objects, mechanical 3D print fittings, and mathematical shapes.
   - **License**: GPL-2.0
 
-- ### 5. **[Instant Meshes](https://github.com/wjakob/instant-meshes)** [![GitHub Stars](https://img.shields.io/github/stars/wjakob/instant-meshes?style=social&color=white)](https://github.com/wjakob/instant-meshes/stargazers) 🕸️
+- ### 5. **[Instant Meshes](https://github.com/wjakob/instant-meshes)** [![GitHub_Stars](https://img.shields.io/github/stars/wjakob/instant-meshes?style=social&color=white)](https://github.com/wjakob/instant-meshes/stargazers) 🕸️
   *Interactive field-aligned quad mesh generator and auto-retopology tool.*
   - **Overview**: Groundbreaking research implementation that converts messy high-poly sculpted triangles into clean, animation-friendly isotropic quad meshes with user-guided orientation flow lines.
   - **Best For**: Instant retopology of raw sculpts before UV unwrapping and animation.
   - **License**: BSD-3-Clause
 
-- ### 6. **[Blockbench](https://github.com/JannisX11/blockbench)** [![GitHub Stars](https://img.shields.io/github/stars/JannisX11/blockbench?style=social&color=white)](https://github.com/JannisX11/blockbench/stargazers) 🧊
+- ### 6. **[Blockbench](https://github.com/JannisX11/blockbench)** [![GitHub_Stars](https://img.shields.io/github/stars/JannisX11/blockbench?style=social&color=white)](https://github.com/JannisX11/blockbench/stargazers) 🧊
   *A modern, low-poly 3D model editor tailored for blocky aesthetics, game assets, and pixel-art texturing.*
   - **Overview**: Extremely intuitive box-modeling UI with built-in texture mapping, animation tools, and direct export to Minecraft, Godot, and Unity.
   - **Best For**: Stylized character modeling, low-poly assets, and pixel art texturing.
   - **License**: GPL-3.0
 
-- ### 7. **[ArmorPaint](https://github.com/armory3d/armorpaint)** [![GitHub Stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers) 🖌️
+- ### 7. **[ArmorPaint](https://github.com/armory3d/armorpaint)** [![GitHub_Stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers) 🖌️
   *Stand-alone open-source software designed for physically based 3D texture painting.*
   - **Overview**: GPU-accelerated texture painting software written in C and Kha/Haxe. Directly complements open-source sculpting tools by allowing multi-channel PBR brush painting on dense meshes.
   - **Best For**: Texturing and material authoring on sculpted 3D models.
   - **License**: zlib / Libero
 
-- ### 8. **[libigl](https://github.com/libigl/libigl)** [![GitHub Stars](https://img.shields.io/github/stars/libigl/libigl?style=social&color=white)](https://github.com/libigl/libigl/stargazers) 🔬
+- ### 8. **[libigl](https://github.com/libigl/libigl)** [![GitHub_Stars](https://img.shields.io/github/stars/libigl/libigl?style=social&color=white)](https://github.com/libigl/libigl/stargazers) 🔬
   *A simple C++ geometry processing library with comprehensive surface mesh manipulation algorithms.*
   - **Overview**: Academic and industrial foundation powering modern 3D research: geodesic distances, surface smoothing, decimation, parameterization, and boolean operations.
   - **Best For**: Developers building custom sculpting, mesh filtering, and geometry deformation pipelines.
   - **License**: MPL-2.0
 
-- ### 9. **[Dust3D](https://github.com/huxingyi/dust3d)** [![GitHub Stars](https://img.shields.io/github/stars/huxingyi/dust3d?style=social&color=white)](https://github.com/huxingyi/dust3d/stargazers) ✨
+- ### 9. **[Dust3D](https://github.com/huxingyi/dust3d)** [![GitHub_Stars](https://img.shields.io/github/stars/huxingyi/dust3d?style=social&color=white)](https://github.com/huxingyi/dust3d/stargazers) ✨
   *Brand new 3D modeling software facilitating rapid 3D base mesh generation for games.*
   - **Overview**: Allows artists to sketch 2D profile nodes to generate watertight, UV-unwrapped 3D manifold meshes with automatic rigging in seconds.
   - **Best For**: Rapidly prototyping creature base meshes before detailing them in Blender or ZBrush.
   - **License**: MIT
 
-- ### 10. **[SculptGL](https://github.com/stephomi/sculptgl)** [![GitHub Stars](https://img.shields.io/github/stars/stephomi/sculptgl?style=social&color=white)](https://github.com/stephomi/sculptgl/stargazers) 🌐
+- ### 10. **[SculptGL](https://github.com/stephomi/sculptgl)** [![GitHub_Stars](https://img.shields.io/github/stars/stephomi/sculptgl?style=social&color=white)](https://github.com/stephomi/sculptgl/stargazers) 🌐
   *A WebGL-based digital sculpting web app created by Stéphane Ginier.*
   - **Overview**: Lightweight browser-based sculpting app with dynamic subdivision, remeshing, and standard sculpting brushes.
   - **Best For**: Instant zero-install 3D sculpting education, workshops, and rapid sketching on any web-enabled device.
   - **License**: MIT
 
-- ### 11. **[Wings 3D](https://github.com/dgud/wings)** [![GitHub Stars](https://img.shields.io/github/stars/dgud/wings?style=social&color=white)](https://github.com/dgud/wings/stargazers) 🦅
+- ### 11. **[Wings 3D](https://github.com/dgud/wings)** [![GitHub_Stars](https://img.shields.io/github/stars/dgud/wings?style=social&color=white)](https://github.com/dgud/wings/stargazers) 🦅
   *Advanced subdivision modeler inspired by Nendo and Mirai.*
   - **Overview**: Pure polygon and subdivision modeling environment with a clean context-sensitive right-click interface.
   - **Best For**: Clean hard-surface subdivision modeling and base topology construction.
   - **License**: BSD-style
 
-- ### 12. **[Dilay](https://github.com/abau/dilay)** [![GitHub Stars](https://img.shields.io/github/stars/abau/dilay?style=social&color=white)](https://github.com/abau/dilay/stargazers) 🗿
+- ### 12. **[Dilay](https://github.com/abau/dilay)** [![GitHub_Stars](https://img.shields.io/github/stars/abau/dilay?style=social&color=white)](https://github.com/abau/dilay/stargazers) 🗿
   *Dedicated 3D sculpting software with adaptive topology mesh editing.*
   - **Overview**: Independent C++ / Qt digital sculpting tool where vertices are dynamically added and removed as brush strokes deform the geometry.
   - **Best For**: Lightweight standalone organic sculpting on Linux and Windows.
